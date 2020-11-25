@@ -1,0 +1,10 @@
+{
+    "name": "metz",
+    "version": "1.0.0",
+    "description": "metz application package",
+    "license": "SEE LICENSE IN LICENSE",
+    "author": "Tan Kent",
+    "scripts": {
+    }
+  }
+  

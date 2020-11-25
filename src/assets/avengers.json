@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "avatar": "svg-9",
+        "first_name": "Tony",
+        "last_name": "Stark",
+        "email": "ironman@theavengers.com",
+        "alias": "Iron Man"
+    },
+    {
+        "id": 2,
+        "avatar": "svg-9",
+        "first_name": "Bruce",
+        "last_name": "Banner",
+        "email": "hulk@theavengers.com",
+        "alias": "Hulk"
+    },
+    {
+        "id": 3,
+        "avatar": "svg-9",
+        "first_name": "Thor",
+        "last_name": "Odinson",
+        "email": "thor@theavengers.com",
+        "alias": "Thor"
+    },
+    {
+        "id": 4,
+        "avatar": "svg-9",
+        "first_name": "Natalia",
+        "last_name": "Romanova",
+        "email": "blackwidow@theavengers.com",
+        "alias": "Black Widdow"
+    },
+    {
+        "id": 5,
+        "avatar": "svg-9",
+        "alias": "Spider-Man",
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "email": "spider-man@theavengers.com"
+    },
+    { 
+        "id": 6,
+        "avatar": "svg-9",
+        "alias": "Black Panther",
+        "first_name": "Black",
+        "last_name": "Panther",
+        "email": "Black.Panther@avengers.com"
+    }
+]
